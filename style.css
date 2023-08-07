@@ -1,4 +1,5 @@
 body{
+    margin:0;
     font-family: 'Raleway', sans-serif;
 }
 h1{
@@ -7,4 +8,27 @@ h1{
 .a{
     color: brown;
     background-color: chocolate;
+}
+button{
+    color: coral;
+    background-color: chartreuse;
+size: 0dvi;
+}
+.samim1{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.samim1 img{
+    width: 100%;
+    float: left;
+    margin-left: 13%;
+    padding-left: 3%;
+}.bt{
+    background-image: url(imegs/bb.jpg);
+
+}
+section{
+    height: 500px;
 }
